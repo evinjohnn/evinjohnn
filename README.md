@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=evinjohnn&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&label=VISITORS&color=blue&style=flat-square&abbreviated=true)
+![Profile Views](https://komarev.com/ghpvc/?username=evinjohnn&label=VISITORS&color=blue&style=flat-square&abbreviated=true)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=evinjohnn&theme=radical&no-frame=true&no-bg=false&margin-w=4)
